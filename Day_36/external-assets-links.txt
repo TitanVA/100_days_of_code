@@ -1,0 +1,12 @@
+
+303 TSLA-Stock-Price
+https://uk.tradingview.com/symbols/NASDAQ-TSLA/
+
+304 Stock-Price-API
+https://www.alphavantage.co/
+
+304 News-API
+https://newsapi.org/
+
+304 Twilio-API
+https://www.twilio.com/
